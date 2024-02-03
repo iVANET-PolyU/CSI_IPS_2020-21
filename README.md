@@ -1,1 +1,1 @@
-# CSI_IPS_2020-21
+# Wi-Fi Channel State Information (CSI) Dataset for Indoor Positioning System (IPS)
