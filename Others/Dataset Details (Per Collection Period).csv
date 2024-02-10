@@ -1,0 +1,161 @@
+Date,Day,Day,Period,Location,Approx Time,People in Room,Obstructions,Comments
+2020/11/13,Fri,d01,-,-,-,-,-,Test
+2020/11/17,Tue,d02,p02,l01 to l08,5:40-6:00pm,2 on Tables 1 and 3,Closed door,
+2020/11/17,Tue,d02,p03,l01 to l08,6:00-6:30pm,2 on Tables 1 and 3,Closed door,
+2020/11/18,Wed,d03,p01,l01 to l08,3:00-3:20pm,2 on Tables 1 and 3,Closed door,
+2020/11/18,Wed,d03,p02,l01 to l08,3:20-3:40pm,2 on Tables 1 and 3,Closed door,
+2020/11/18,Wed,d03,p03,l01 to l08,3:40-4:00pm,2 on Tables 1 and 3,Closed door,
+2020/11/18,Wed,d03,p04,l01 to l08,4:00-4:20pm,2 on Tables 1 and 3,Closed door,
+2020/11/20,Fri,d04,p01,l01 to l08,4:40-5:00pm,2 on Tables 1 and 3,Closed door,
+2020/11/20,Fri,d04,p02,l01 to l08,5:00-5:20pm,2 on Tables 1 and 3,Closed door,
+2020/11/20,Fri,d04,p03,l01 to l08,6:20-6:40pm,2 on Tables 1 and 3,Closed door; Box obstruction between TX/RX; Chair near loc05-08,
+2020/11/20,Fri,d04,p04,l01 to l08,6:40-7:00pm,2 on Tables 1 and 3,Closed door; Box obstruction between TX/RX; Chair near loc05-08,
+2020/11/25,Wed,d05,p01,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2020/11/25,Wed,d05,p02,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,
+2020/11/30,Mon,d06,p01,l01 to l08,3:00-3:30pm,2 on Tables 1 and 5,Slightly open door,
+2020/11/30,Mon,d06,p02,l01 to l08,3:30-4:00pm,2 on Tables 1 and 5,Slightly open door,
+2020/11/30,Mon,d06,p03,l01 to l08,4:30-5:00pm,"3 on Tables 1, 3 and 5",Slightly open door,User on Table 3 also transmitting to device
+2020/11/30,Mon,d06,p04,l01 to l08,5:00-5:30pm,2 on Tables 1 and 5,Closed door,
+2020/11/30,Mon,d06,p05,l01 to l08,6:00-6:30pm,2 on Tables 1 and 5,Closed door,
+2020/12/01,Tue,d07,p01,l01 to l08,3:30-4:00pm,1 on Table 1,Closed door,
+2020/12/01,Tue,d07,p02,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door; Box obstruction between TX/RX; Books near RX,
+2020/12/01,Tue,d07,p03,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door; Box obstruction between TX/RX; Books near RX,
+2020/12/01,Tue,d07,p04,l01 to l08,5:30-6:00pm,2 on Tables 1 and 3,Closed door; Box obstruction between TX/RX; Books near RX,
+2020/12/01,Tue,d07,p05,l01 to l08,6:00-6:30pm,2 on Tables 1 and 3,Closed door,
+2020/12/02,Wed,d08,p01,l01 to l08,4:00-4:30pm,2 users on Tables 1 and 3,Closed door,
+2020/12/02,Wed,d08,p02,l01 to l08,6:30-7:00pm,2 users on Tables 1 and 3,Closed door,
+2020/12/02,Wed,d08,p03,l01 to l08,7:00-7:30pm,2 users on Tables 1 and 3,Closed door,
+2020/12/07,Mon,d09,p01,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2020/12/07,Mon,d09,p02,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2020/12/07,Mon,d09,p03,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door; Box and chair obstructions between TX/RX,
+2020/12/07,Mon,d09,p04,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door; Box and chair obstructions between TX/RX,
+2020/12/08,Tue,d10,p01,l01 to l08,2:00-2:30pm,2 on Tables 1 and 5,Closed door,
+2020/12/08,Tue,d10,p02,l01 to l08,2:30-3:00pm,2 on Tables 1 and 5,Closed door,
+2020/12/08,Tue,d10,p03,l01 to l08,3:00-3:30pm,2 on Tables 1 and 5,Closed door,
+2020/12/08,Tue,d10,p04,l01 to l08,3:30-4:00pm,2 on Tables 1 and 5,Closed door,
+2020/12/08,Tue,d10,p06,l01 to l08,5:30-6:00pm,2 on Tables 1 and 5,Closed door; Box obstruction,
+2020/12/08,Tue,d10,p07,l01 to l08,6:30-7:00pm,2 on Tables 1 and 5,Closed door; Box obstruction,
+2020/12/08,Tue,d10,p08,l01 to l08,7:00-7:30pm,2 on Tables 1 and 5,Closed door; Box obstruction on top of cabinet,
+2020/12/08,Tue,d10,p09,l01 to l08,7:30-8:00pm,1 on Table 1,Closed door; Box obstruction on top of cabinet,
+2020/12/10,Thu,d11,p01,l01 to l08,5:30-6:00pm,2 on Tables 1 and 5,Slightly open door,
+2020/12/10,Thu,d11,p02,l01 to l08,6:00-6:30pm,2 on Tables 1 and 5,Slightly open door,
+2020/12/10,Thu,d11,p03,l01 to l08,6:30-7:00pm,1 on Table 1,Slightly open door; Chair obstruction,
+2020/12/10,Thu,d11,p04,l01 to l08,7:00-7:30pm,1 on Table 1,Slightly open door; Chair obstruction,
+2020/12/10,Thu,d11,p05,l01 to l08,7:30-8:00pm,1 on Table 1,Slightly open door; Box obstruction,
+2020/12/14,Mon,d12,p01,l01 to l08,6:00-6:30pm,2 on Tables 1 and 5,Closed door,
+2020/12/15,Tue,d13,p01,l01 to l08,3:00-3:30pm,1 on Table 1,Closed door,
+2020/12/15,Tue,d13,p02,l01 to l08,3:30-4:00pm,2 on Tables 1 and 4,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/15,Tue,d13,p03,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/15,Tue,d13,p05,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/15,Tue,d13,p06,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/15,Tue,d13,p07,l01 to l08,7:30-8:00pm,2 on Tables 1 and 3,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/15,Tue,d13,p08,l01 to l08,8:00-8:30pm,2 on Tables 1 and 3,Closed door,Antennas returned to default orientation
+2020/12/17,Thu,d14,p01,l01 to l08,4:00-4:30pm,"3 on Tables 1, 3 and 5",Slightly open door,
+2020/12/17,Thu,d14,p02,l01 to l08,4:30-5:00pm,"3 on Tables 1, 3 and 5",Slightly open door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/17,Thu,d14,p03,l01 to l08,5:00-5:30pm,"3 on Tables 1, 3 and 5",Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/17,Thu,d14,p04,l01 to l08,6:00-6:30pm,"2 on Tables 1 and 2, 1 walking",Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/17,Thu,d14,p05,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/17,Thu,d14,p06,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,Antennas returned to default orientation
+2020/12/21,Mon,d15,p01,l01 to l08,4:30-5:00pm,"3 on Tables 1, 3 and 5",Closed door,
+2020/12/21,Mon,d15,p02,l01 to l08,5:30-6:00pm,"3 on Tables 1, 3 and 5",Closed door,
+2020/12/21,Mon,d15,p03,l01 to l08,6:00-6:30pm,"3 on Tables 1, 3 and 5",Closed door,
+2020/12/21,Mon,d15,p04,l01 to l08,6:30-7:00pm,2 on Tables 1 and 2,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/21,Mon,d15,p05,l01 to l08,7:00-7:30pm,2 on Tables 1 and 2,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/22,Tue,d16,p01,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2020/12/22,Tue,d16,p02,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2020/12/22,Tue,d16,p03,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2020/12/22,Tue,d16,p04,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/22,Tue,d16,p05,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/22,Tue,d16,p06,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/29,Tue,d17,p01,l01 to l08,3:00-3:30pm,2 on Tables 1 and 5,Closed door,
+2020/12/29,Tue,d17,p02,l01 to l08,3:30-4:00pm,2 on Tables 1 and 5,Closed door,
+2020/12/29,Tue,d17,p03,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/29,Tue,d17,p04,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2020/12/29,Tue,d17,p05,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2020/12/29,Tue,d17,p06,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2020/12/30,Wed,d18,p01,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2020/12/30,Wed,d18,p02,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2020/12/30,Wed,d18,p03,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2020/12/30,Wed,d18,p04,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/1/5,Tue,d19,p01,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2021/1/5,Tue,d19,p02,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2021/1/5,Tue,d19,p03,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/1/12,Tue,d20,p01,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2021/1/12,Tue,d20,p02,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2021/1/12,Tue,d20,p03,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/1/12,Tue,d20,p04,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/1/12,Tue,d20,p05,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p02,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p03,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p04,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p05,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p06,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,
+2021/1/15,Fri,d21,p07,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/1/19,Tue,d22,p01,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2021/1/19,Tue,d22,p02,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/1/19,Tue,d22,p03,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/1/19,Tue,d22,p04,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,
+2021/1/19,Tue,d22,p05,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/1/20,Wed,d23,p01,l01 to l08,5:30-6:00pm,"1 on Table 1, 1 near Table 1",Closed door,
+2021/1/20,Wed,d23,p02,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,
+2021/1/20,Wed,d23,p03,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/1/20,Wed,d23,p04,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,
+2021/1/26,Tue,d24,p01,l01 to l08,3:00-3:30pm,1 on Table 1,Closed door,
+2021/1/26,Tue,d24,p02,l01 to l08,3:30-4:00pm,1 on Table 1,Closed door,
+2021/1/26,Tue,d24,p03,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2021/1/26,Tue,d24,p04,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2021/1/26,Tue,d24,p05,l01 to l08,5:00-5:30pm,2 on Tables 1 and 3,Closed door,
+2021/1/26,Tue,d24,p06,l01 to l08,5:30-6:00pm,2 on Tables 1 and 3,Closed door,Antennas on mount slightly tilted to arbitrary degree
+2021/1/26,Tue,d24,p07,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p01,l01 to l08,3:00-3:30pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p02,l01 to l08,3:30-4:00pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p03,l01 to l08,4:00-4:30pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p04,l01 to l08,4:30-5:00pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p05,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/3/15,Mon,d25,p06,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/3/19,Fri,d26,p01,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,
+2021/3/19,Fri,d26,p02,l01 to l08,8:00-8:30pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p01,l01 to l08,5:00-5:30pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p02,l01 to l08,5:30-6:00pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p03,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p04,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p05,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,
+2021/4/2,Fri,d27,p06,l01 to l08,7:30-8:00pm,1 on Table 1,Closed door,
+2021/4/8,Thu,d28,p01,l01 to l08,6:00-6:30pm,1 on Table 1,Closed door,
+2021/4/8,Thu,d28,p02,l01 to l08,6:30-7:00pm,1 on Table 1,Closed door,
+2021/4/8,Thu,d28,p03,l01 to l08,7:00-7:30pm,1 on Table 1,Closed door,
+2021/4/8,Thu,d28,p04,l01 to l08,7:30-8:00pm,1 on Table 1,Closed door,
+-,-,-,-,-,-,-,-,End of location-specific data
+-,-,-,-,-,-,-,-,Succeeding data are background data.
+2020/10/19,Mon,d98,p01,bg,4:30-4:45pm,1 on Table 1,Closed door,On top of box
+2020/10/19,Mon,d98,p02,bg,4:45-5:00pm,1 on Table 1,Closed door,Near loc01
+2020/10/19,Mon,d98,p03,bg,5:00-5:15pm,1 on Table 1,Closed door,On top of Table 1 cabinet
+2020/10/19,Mon,d98,p04,bg,5:15-5:30pm,1 on Table 1,Closed door,On top of desktop PC
+2020/10/19,Mon,d98,p05,bg,8:00-8:15pm,1 on Table 1,Closed door,On top of Table 5 cabinet
+2020/10/19,Mon,d98,p06,bg,8:15-8:30pm,1 on Table 1,Closed door,On top of Table 1
+2020/10/19,Mon,d98,p07,bg,8:30-8:45pm,1 on Table 1,Closed door,On top of Table 1
+2020/10/20,Tue,d98,p08,bg,3:00-3:10pm,1 on Table 1,Closed door,Center of loc01-04
+2020/10/20,Tue,d98,p09,bg,3:10-3:20pm,1 on Table 1,Closed door,near loc04
+2020/10/20,Tue,d98,p10,bg,3:20-3:30pm,1 on Table 1,Closed door,On the floor near Table 1
+2020/10/20,Tue,d98,p11,bg,3:30-3:40pm,1 on Table 1,Closed door,On the Table 1 cabinet
+2020/10/20,Tue,d98,p12,bg,3:40-3:45pm,1 on Table 1,Closed door,On top of Table 1 cabinet
+2020/10/20,Tue,d98,p13,bg,3:45-3:50pm,1 on Table 1,Closed door,On top of Table 1
+2020/10/20,Tue,d98,p14,bg,3:50-3:55pm,1 on Table 1,Closed door,near loc03
+2020/10/20,Tue,d98,p15,bg,3:55-4:00pm,1 on Table 1,Closed door,On top of desktop PC
+2020/10/20,Tue,d98,p16,bg,6:00-6:45pm,1 on Table 1,Closed door,on loc04
+2020/10/22,Thu,d98,p17,bg,6:30-6:40pm,1 on Table 1,Closed door,near loc02
+2020/10/22,Thu,d98,p18,bg,6:40-6:50pm,1 on Table 1,Closed door,near loc04
+2020/10/22,Thu,d98,p19,bg,6:50-7:00pm,1 on Table 1,Closed door,near Desktop PC mouse
+2020/10/22,Thu,d98,p20,bg,7:00-7:10pm,1 on Table 1,Closed door,On top of desktop PC
+2020/10/23,Fri,d98,p21,bg,8:00-8:10pm,1 on Table 1,Closed door,near loc01
+2020/10/23,Fri,d98,p22,bg,8:10-8:20pm,1 on Table 1,Closed door,near loc02
+2020/10/30,Fri,d98,p23,bg,6:00-6:15pm,1 on Table 1,Closed door,on loc01
+2020/10/30,Fri,d98,p24,bg,6:15-6:30pm,1 on Table 1,Closed door,on loc02
+2020/11/02,Mon,d98,p25,bg,5:00-5:10pm,1 on Table 1,Closed door,on loc04
+2020/11/02,Mon,d98,p26,bg,5:10-5:20pm,1 on Table 1,Closed door,on loc03
+2020/11/02,Mon,d98,p27,bg,5:20-5:30pm,1 on Table 1,Closed door,between loc03-04
+2020/11/20,Fri,d99,p01,bg,7:00-7:10pm,2 users on Tables 1 and 3,Closed door,On top of Table 1
+2020/11/20,Fri,d99,p02,bg,7:10-7:20pm,2 users on Tables 1 and 3,Closed door,On top of Table 1
+2020/12/02,Wed,d99,p03,bg,7:30-7:40pm,2 users on Tables 1 and 3,Closed door,On top of Table 1
+2021/01/05,Tue,d99,p04,bg,5:30-5:45pm,2 users on Tables 1 and 3,Closed door,on loc04
+-,-,-,-,-,-,-,-,End of background data
