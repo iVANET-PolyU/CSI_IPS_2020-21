@@ -41,17 +41,18 @@ Before the data collection process starts, the user checks whether the TX client
       -  Log filename is changed to an appropriate name.
   -  The .dat files were transferred from the HMB Pro to another device for postprocessing. 
 
-
-The [raw .dat files](Others/01_rawdata/) are uploaded to this repository. Each subfolder represents one collection day, and each .dat file in the subfolder represents one log file for location-specific collection. These .dat files were named according to the day, period, and location. Each .dat file may contain up to 500 packets. In some cases, certain .dat files did not record enough packets and were therefore rendered unusable. Another potential issue arose when the packets were not recorded due to reaching the limited storage capacity of the SD card in the HMB pro.
-
-
-The [dataset summary](Others/datasetSummary.csv) lists the various collection dates from November 17, 2020, to April 8, 2021. Only the usable datasets were uploaded to this repository. This spreadsheet also indicates which data were used for Dataset A, B, and C (in reference to the submitted article). 
+## Repository Content
+The [raw .dat files](01_rawdata/) are uploaded to this repository. Each subfolder represents one collection day, and each .dat file in the subfolder represents one log file for location-specific collection. These .dat files were named according to the day, period, and location. Each .dat file may contain up to 500 packets. In some cases, certain .dat files did not record enough packets and were therefore rendered unusable. Another potential issue arose when the packets were not recorded due to reaching the limited storage capacity of the SD card in the HMB Pro.
 
 
-## Information about each data collection day and periods
+The [Matlab codes](00_code/) for processing the .dat files are uploaded to this repository. The main script is entitled `main_extractCSI.m`, while other files are used for certain functions.
 
-The [dataset details](Others/datasetDetails_perCollectionPeriod.csv) contain more information per collection period, such as the date, time, number of people in the room, obstructions, and other comments. 
-- The d02-d28 are location-specific data collection
+
+The [dataset summary](Others/datasetSummary.csv) lists the various collection dates from November 17, 2020, to April 8, 2021. Only the usable datasets were uploaded to this repository. This spreadsheet also indicates which data were used for Datasets A, B, and C (in reference to the submitted article). 
+
+
+The [dataset details](Others/datasetDetails_perCollectionPeriod.csv) contain more information per collection period, such as the date, approximate collection time, number of people in the room, obstructions, and other comments. 
+- The d02-d28 are location-specific data collection.
 - The d98-d99 are background data collection. These background data were only used for training the i-vectors and were not placed on the 8 locations but were named similarly with loc01-08 for easier processing 
 
 
