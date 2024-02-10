@@ -1,4 +1,4 @@
-# Wi-Fi Channel State Information (CSI) Dataset for Indoor Positioning System (IPS)
+# Wi-Fi Channel State Information (CSI) Dataset for Indoor Positioning System (IPS) using Hummingboard Pro
 
 ## Introduction about the Dataset
 This dataset was collected using HummingBoard (HMB) Pro single-board computer (SBC) in Room 621 of the Hong Kong Polytechnic University from November 2020 to April 2021. The SBC was equipped with Debian OS and the [Linux 802.11n CSI Tool created by Daniel Halperin et. al. (2011)](https://dhalperi.github.io/linux-80211n-csitool/).
