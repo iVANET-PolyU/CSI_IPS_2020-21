@@ -9,6 +9,7 @@ Reyes, Josyl Mariela Rocamora and Ho, Ivan Wang-Hei and Mak, Man-Wai, Wi-Fi Csi 
 > As of February 3, 2024, the paper is still under review and revision process.
 
 ## Experimental Setup of the Data Collection
+![Actual picture of the experimental setup in the room](Others/setup1pdf)
 
 ## Data Collection Procedure (Site Survey)
 
