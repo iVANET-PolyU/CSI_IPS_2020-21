@@ -4,9 +4,7 @@
 This dataset was collected using HummingBoard (HMB) Pro single-board computer (SBC) in Room 621 of the Hong Kong Polytechnic University from November 2020 to April 2021. The SBC was equipped with Debian OS and the [Linux 802.11n CSI Tool created by Daniel Halperin et. al. (2011)](https://dhalperi.github.io/linux-80211n-csitool/). This dataset is one of the datasets collected and evaluated in the Ph.D. Dissertation of Josyl Rocamora Reyes. 
 
 
-### If you will use this dataset for your research, kindly cite our work found on this link:
-> DOI: https://doi.org/10.1016/j.eswa.2024.125802
-
+### If you will use this dataset for your research, kindly cite our work found on this link: https://doi.org/10.1016/j.eswa.2024.125802
 You may also download a copy of the work via this author link: https://authors.elsevier.com/a/1kBIR3PiGTTVn3
 
 
