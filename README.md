@@ -5,10 +5,10 @@ This dataset was collected using HummingBoard (HMB) Pro single-board computer (S
 
 
 
-### If you will use this dataset for your research, kindly cite our work:
-Reyes, Josyl Mariela Rocamora and Ho, Ivan Wang-Hei and Mak, Man-Wai, Wi-Fi Csi Fingerprinting-Based Indoor Positioning Using Deep Learning and Vector Embedding. Available at SSRN: https://ssrn.com/abstract=4611921 or http://dx.doi.org/10.2139/ssrn.4611921
-> This dataset is shared and cited in the above work. 
-> As of February 3, 2024, the above paper is still under review and revision process.
+### If you will use this dataset for your research, kindly cite our work found on this link:
+> DOI: https://doi.org/10.1016/j.eswa.2024.125802
+> Author Link: https://authors.elsevier.com/a/1kBIR3PiGTTVn3
+> As of November 28, 2024, the above paper is available in the journal.
 > This dataset is one of the datasets collected and evaluated in the Ph.D. Dissertation of Josyl Rocamora Reyes. 
 
 ## Experimental Setup of the Data Collection
